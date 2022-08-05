@@ -6,3 +6,4 @@ Fruits I like
 5. Banana
 6. Strawberry
 7. lime
+7. peach
