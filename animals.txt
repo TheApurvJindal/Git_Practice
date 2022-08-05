@@ -1,4 +1,0 @@
-Dog
-cat
-tiger
-lion
