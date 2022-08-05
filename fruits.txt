@@ -3,3 +3,5 @@ Fruits I like
 2. Apple
 3. orange
 4. Watermelon
+5. Banana
+6. Strawberry
